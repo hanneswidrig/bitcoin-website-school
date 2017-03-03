@@ -1,0 +1,146 @@
+* {
+margin:0;
+padding:0;
+}
+
+body.BodyText {
+background-color:#d4ebf2;
+}
+
+h1 {
+font-size:1.6em;
+color:#000;
+text-align:center;
+margin:20px;
+}
+
+h2 {
+margin-left:100px;
+font-family:'Merriweather Sans', sans-serif;
+font-size:26px;
+display:inline-block;
+line-height:75px;
+}
+
+body {
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+margin-top:0;
+}
+
+#wrapper {
+width:922px;
+margin:0 auto;
+}
+
+#navigation {
+width:920px;
+padding-top:10px;
+height:30px;
+background:#4d4d4d;
+border-bottom:4px grey solid;
+}
+
+#header {
+color:#FFF;
+width:900px;
+height:75px;
+background-color:#0d579b;
+padding:10px;
+}
+
+#content {
+float:left;
+color:#333;
+background:#FFF;
+height:620px;
+width:680px;
+display:inline;
+text-align:justify;
+padding:10px;
+}
+
+#rightcolumn {
+color:#000;
+background:#FFF;
+height:620px;
+width:200px;
+float:left;
+padding:10px;
+}
+
+#footer {
+text-align:center;
+width:900px;
+clear:both;
+color:#fff;
+background:#4d4d4d;
+padding:10px;
+}
+
+a:link {
+color:#FFF;
+}
+
+#footer a:link {
+font-size:1em;
+}
+
+#footer a:visited {
+color:#000;
+}
+
+#footer a:hover {
+color:#1f5;
+text-decoration:underline;
+}
+
+#footer a:active {
+color:#FF7F50;
+}
+
+.MyFloatRight {
+float:right;
+height:40%;
+padding:.5em 0 .5em .5em;
+}
+
+.MyFloatLeft {
+float:left;
+width:20%;
+margin-top:10px;
+padding:.5em .5em .5em 0;
+}
+
+//NAVIGATION BAR CSS --------
+#wrapper #navigation {
+text-align:center;
+}
+
+ul {
+list-style-type:none;
+overflow:hidden;
+background-color:#4d4d4d;
+margin:0;
+padding:0;
+}
+
+li a {
+text-decoration:none;
+text-align:center;
+margin-left:34px;
+cursor:pointer;
+font-family:Lato, sans-serif;
+font-weight:700;
+font-size:16px;
+color:#FFF;
+padding:24px;
+}
+
+li a:hover {
+color:#1f5;
+}
+
+#logo,li {
+float:left;
+}
