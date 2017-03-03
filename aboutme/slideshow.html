@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <script type="text/javascript">
+        <!--
+        closetime = 15;
+
+        pict1 = new Image()
+        pict1.src = "images/light-abstract-fire-heat.jpg"
+		pict2 = new Image()
+        pict2.src = "images/lights-abstract-bokeh.jpg"
+        pict3 = new Image()
+        pict3.src = "images/pattern-abstract.jpg"
+        pict4 = new Image()
+        pict4.src = "images/abstract-blur-green-blurred.jpg"
+
+        slides = 4 // <--number of slides-->
+        rotations = 75 // <--number of times the show is run-->
+        speed = 1300 // <--time between changes-->
+
+        function runit() {
+
+                for (x = 1, y = 0; x < (slides * rotations); x = x + slides, y = 0) {
+                    y++;
+                    setTimeout("document.slideshow.src = pict1.src", ((x + y) * speed))
+                    y++;
+                    setTimeout("document.slideshow.src = pict2.src", ((x + y) * speed))
+                    y++;
+                    setTimeout("document.slideshow.src = pict3.src", ((x + y) * speed))
+					y++;
+                    setTimeout("document.slideshow.src = pict3.src", ((x + y) * speed))
+                } // end of for loop
+            } // end of function runit
+            -->
+    </script>
+    <style type="text/css">
+    </style>
+    <meta charset="utf-8">
+
+    <title>Document</title>
+    <meta name="description" content="Document">
+    <meta name="author" content="SitePoint">
+
+    <link rel="stylesheet" href="css/styles.css?v=1.0">
+</head>
+
+<body onload="runit()">
+    <script src="js/scripts.js"></script>
+	<div align="center">
+    <img name="slideshow" src="images/light-abstract-fire-heat.jpg" width="640" height="426" alt="Abstract photos" title="Abstract photos"  />
+</div>
+</body>
+
+</html>

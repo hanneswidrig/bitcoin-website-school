@@ -1,0 +1,11 @@
+<script src="swfobject.js"      type="text/javascript" ></script>
+<script src="mmenu.js"          type="text/javascript"></script>
+<script src="menuItems.js"      type="text/javascript">
+
+/***********************************************
+* Omni Slide Menu script - � John Davenport Scheuer
+* very freely adapted from Dynamic-FX Slide-In Menu (v 6.5) script- by maXimus
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full original source code
+***********************************************/
+</script>
