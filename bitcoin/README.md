@@ -1,4 +1,5 @@
-[**Live Preview**](http://hanslowinc.x10.mx/bitcoin/) of project.
+## Bitcoin Project
+[**Live Preview**](http://hanslowinc.x10.mx/bitcoin/)
 
 ## Core Objectives of Assignment 
 - Create multipage website 
