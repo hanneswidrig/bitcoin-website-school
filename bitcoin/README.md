@@ -1,4 +1,4 @@
-This is a website made for my Web Development class in Spring 2016.
+[*Live Preview*](http://hanslowinc.x10.mx/bitcoin/)
 
 ## Core Objectives of Assignment 
 - Create multipage website 
