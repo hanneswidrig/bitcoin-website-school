@@ -1,1 +1,9 @@
-#About Me
+## About Me Project *Responsive*
+[**Live Preview**](http://hanslowinc.x10.mx/aboutme/)
+
+## Core Objectives of Assignment
+- Advanced CSS Styling
+- JS Slideshow and multiple modes of navigation.
+
+## Above and beyond
+Website is responsive and uses pleasing font and background color contrast. I personally designed the CSS styling entirely from scratch and implemented a slightly modified JS slideshow.
