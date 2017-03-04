@@ -4,4 +4,4 @@ Web projects were created as part of the web publishing class I took last year. 
 ## Project Summaries
 1. **About Me**: Most developed project, makes use of CSS and JS for styling and photos display on site.
 2. **Bitcoin**: Designed to display multi-page CSS and navigation.
-3. **Test Navigation**: This was an early project, and the only the CSS styling for the navigation stands out in particular.
+3. **Test Navigation**: This was an early project, and only the CSS styling for the navigation stands out in particular.
