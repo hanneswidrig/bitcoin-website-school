@@ -1,5 +1,5 @@
 ## Bitcoin Project
-[**Live Preview**](http://hanslowinc.x10.mx/bitcoin/)
+[**Live Preview**](http://hanneswidrig.com/schlwbpj/bitcoin/)
 
 ## Core Objectives of Assignment 
 - Create multipage website 
