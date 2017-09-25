@@ -1,5 +1,5 @@
 ## About Me Project
-[**Live Preview**](http://hanslowinc.x10.mx/aboutme/)
+[**Live Preview**](http://hanneswidrig.com/schlwbpj/aboutme/)
 
 ## Core Objectives of Assignment
 - More reactive design
