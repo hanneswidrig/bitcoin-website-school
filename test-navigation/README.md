@@ -1,5 +1,5 @@
 ## Test Navigation *"Fake hosting company"* Project
-[**Live Preview**](http://hanneswidrig.com/schlwbpj/aboutme/)
+[**Live Preview**](http://hanneswidrig.com/schlwbpj/test-navigation/)
 
 ## Core Objectives of Assignment
 - Simple navigation
